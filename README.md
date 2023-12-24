@@ -32,4 +32,4 @@ A estrutura do projeto é organizada da seguinte maneira:
 
 ## Visualização
 
-Para uma visualização rápida, acesse [FlexBlog Demo](https://github.com/yuri-italo/flex-blog).
+Para uma visualização rápida, acesse [FlexBlog Demo](https://yuri-italo.github.io/flex-blog/).
